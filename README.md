@@ -69,4 +69,4 @@ Declassamento dell'Asset: Emissione di un'allerta immediata di "Livello Rosso", 
 
 Azione di Ripristino: Apertura di una richiesta di risarcimento assicurativo sotto il framework MiCA e pianificazione di una sessione di perizia urgente entro 48 ore.
 
-Perché è importante: Questa automazione previene l'asimmetria informativa e protegge gli investitori retail dallo scambio di token privi di garanzia fisica, assicurando piena trasparenza e conformità normativa.
+> **Perché è importante: Questa automazione previene l'asimmetria informativa e protegge gli investitori retail dallo scambio di token privi di garanzia fisica, assicurando piena trasparenza e conformità normativa.
